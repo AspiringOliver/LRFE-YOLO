@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>35_2.jpg</filename>
+		<size>
+			<width>138</width>
+			<height>138</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>needle</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>86</xmin>
+				<ymin>6</ymin>
+				<xmax>100</xmax>
+				<ymax>42</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,10 @@
+path: ../LRFE-YOLO/data
+train: 9_1/train/images
+val: 9_1/valid/images
+test:  9_1/test/images
+
+nc: 1
+names:
+  0: needle
+
+

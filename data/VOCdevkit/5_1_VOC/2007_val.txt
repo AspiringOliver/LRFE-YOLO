@@ -1,0 +1,17 @@
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/10_1.jpg 28,13,45,39,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/145_1.jpg 11,84,40,103,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/20_2.jpg 102,85,132,98,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/25_1.jpg 23,99,47,115,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/305_1.jpg 25,83,46,99,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/350_1.jpg 32,16,50,43,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/385_1.jpg 12,79,38,96,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/435_2.jpg 81,4,90,31,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/450_2.jpg 9,50,37,62,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/460_2.jpg 93,77,118,91,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/470_1.jpg 29,8,44,34,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/495_1.jpg 87,36,115,55,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/545_2.jpg 40,88,51,120,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/600_1.jpg 82,89,101,113,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/60_2.jpg 98,83,132,99,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/75_2.jpg 88,6,96,39,0
+/content/drive/MyDrive/demo/Faster-RCNN-Pytorch/faster-rcnn-pytorch-master/VOCdevkit/VOC2007/JPEGImages/90_1.jpg 29,11,49,40,0
